@@ -1,0 +1,59 @@
+.bigkeytop{
+    display: flex;
+    width: 100%;
+    height: 67rpx;
+    background-color:var(--whitekeycolor--) ;
+    border-top: black;
+    border-top-style: solid;
+    border-width: 1rpx;
+}
+.bigkeybot{
+    display: flex;
+    width: 100%;
+    height: 67rpx;
+    background-color:var(--whitekeycolor--) ;  
+}
+.bigkeymid{
+    display: flex;
+    width: 100%;
+    height: 40rpx;
+    background-color:var(--whitekeycolor--) ;  
+}
+.leskeytop{
+    display: flex;
+    width: 35%;
+    height: 40rpx;
+    background-color:var(--whitekeycolor--) ;
+    border-top: black;
+    border-top-style: solid;
+    border-width: 1rpx;
+}
+.leskeybot{
+    display: flex;
+    width: 35%;
+    height: 40rpx;
+    background-color:var(--whitekeycolor--) ;
+
+}
+.leskeyend{
+    display: flex;
+    width: 100%;
+    height: 40rpx;
+    background-color:var(--whitekeycolor--) ;
+
+}
+.blackkey1{
+    display: flex;
+    width: 65%;
+    height: 40rpx;
+    background-color: black;
+}
+.blackkey2{
+    display: flex;
+    width: 65%;
+    height: 40rpx;
+    background-color: black;
+    border-bottom: black;
+    border-width: 1rpx;
+    border-bottom-style: solid;
+}

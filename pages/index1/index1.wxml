@@ -1,0 +1,348 @@
+<view class="bigkeytop" bindtouchstart="A2s" bindtouchend="A2e" style="--whitekeycolor--:{{A2}}" >A2</view>
+<view style="display: flex;">
+   <view class="leskeybot" bindtouchstart="A2s" bindtouchend="A2e" style="--whitekeycolor--:{{A2}}"></view>
+   <view class="blackkey1" bindtouchstart="A2b"></view>
+</view>
+<view style="display: flex;">
+   <view class="leskeytop" bindtouchstart="B2s" bindtouchend="B2e" style="--whitekeycolor--:{{B2}}">B2</view>
+   <view class="blackkey2" bindtouchstart="A2b"></view>
+</view>
+<view class='bigkeybot' bindtouchstart="B2s" bindtouchend="B2e" style="--whitekeycolor--:{{B2}}"></view>
+<view class="bigkeytop" bindtouchstart="C1s" bindtouchend="C1e" style="--whitekeycolor--:{{C1}}">C1</view>
+<view style="display: flex;">
+   <view class="leskeybot" bindtouchstart="C1s" bindtouchend="C1e" style="--whitekeycolor--:{{C1}}"></view>
+   <view class="blackkey1" bindtouchstart="C1b"></view>
+</view>
+<view style="display: flex;">
+   <view class="leskeytop" bindtouchstart="D1s" bindtouchend="D1e" style="--whitekeycolor--:{{D1}}">D1</view>
+   <view class="blackkey2" bindtouchstart="C1b"></view>
+</view>
+<view class="bigkeymid" bindtouchstart="D1s" bindtouchend="D1e" style="--whitekeycolor--:{{D1}}"></view>
+<view style="display: flex;">
+   <view class='leskeybot' bindtouchstart="D1s" bindtouchend="D1e" style="--whitekeycolor--:{{D1}}"></view>
+   <view class='blackkey1' bindtouchstart="D1b"></view>
+</view>
+<view style="display: flex;">
+   <view class='leskeytop' bindtouchstart="E1s" bindtouchend="E1e" style="--whitekeycolor--:{{E1}}">E1</view>
+   <view class='blackkey2' bindtouchstart="D1b"></view>
+</view>
+<view class='bigkeybot' bindtouchstart="E1s" bindtouchend="E1e" style="--whitekeycolor--:{{E1}}"></view>
+<view class="bigkeytop" bindtouchstart="F1s" bindtouchend="F1e" style="--whitekeycolor--:{{F1}}" >F1</view>
+<view style="display: flex;">
+   <view class="leskeybot" bindtouchstart="F1s" bindtouchend="F1e" style="--whitekeycolor--:{{F1}}"></view>
+   <view class="blackkey1" bindtouchstart="F1b"></view>
+</view>
+<view style="display: flex;">
+   <view class="leskeytop" bindtouchstart="G1s" bindtouchend="G1e" style="--whitekeycolor--:{{G1}}">G1</view>
+   <view class="blackkey2" bindtouchstart="F1b"></view>
+</view>
+<view class="bigkeymid" bindtouchstart="G1s" bindtouchend="G1e" style="--whitekeycolor--:{{G1}}"></view>
+<view style="display: flex;">
+   <view class='leskeybot' bindtouchstart="G1s" bindtouchend="G1e" style="--whitekeycolor--:{{G1}}"></view>
+   <view class='blackkey1' bindtouchstart="G1b"></view>
+</view>
+<view style="display: flex;">
+   <view class='leskeytop' bindtouchstart="A1s" bindtouchend="A1e" style="--whitekeycolor--:{{A1}}">A1</view>
+   <view class='blackkey2' bindtouchstart="G1b"></view>
+</view>
+<view class="bigkeymid" bindtouchstart="A1s" bindtouchend="A1e" style="--whitekeycolor--:{{A1}}"></view>
+<view style="display: flex;">
+   <view class='leskeybot' bindtouchstart="A1s" bindtouchend="A1e" style="--whitekeycolor--:{{A1}}"></view>
+   <view class='blackkey1' bindtouchstart="A1b"></view>
+</view>
+<view style="display: flex;">
+   <view class='leskeytop' bindtouchstart="B1s" bindtouchend="B1e" style="--whitekeycolor--:{{B1}}">B1</view>
+   <view class='blackkey2' bindtouchstart="A1b"></view>
+</view>
+<view class='bigkeybot' bindtouchstart="B1s" bindtouchend="B1e" style="--whitekeycolor--:{{B1}}"></view>
+<view class="bigkeytop" bindtouchstart="C0" bindtouchend="C0" style="--whitekeycolor--:{{C0}}">C</view>
+<view style="display: flex;">
+   <view class="leskeybot" bindtouchstart="C0s" bindtouchend="C0e" style="--whitekeycolor--:{{C0}}"></view>
+   <view class="blackkey1" bindtouchstart="C0b"></view>
+</view>
+<view style="display: flex;">
+   <view class="leskeytop" bindtouchstart="D0s" bindtouchend="D0e" style="--whitekeycolor--:{{D0}}">D</view>
+   <view class="blackkey2" bindtouchstart="C0b"></view>
+</view>
+<view class="bigkeymid" bindtouchstart="D0s" bindtouchend="D0e" style="--whitekeycolor--:{{D0}}"></view>
+<view style="display: flex;">
+   <view class='leskeybot' bindtouchstart="D0s" bindtouchend="D0e" style="--whitekeycolor--:{{D0}}"></view>
+   <view class='blackkey1' bindtouchstart="D0b"></view>
+</view>
+<view style="display: flex;">
+   <view class='leskeytop' bindtouchstart="E0s" bindtouchend="E0e" style="--whitekeycolor--:{{E0}}">E</view>
+   <view class='blackkey2' bindtouchstart="D0b"></view>
+</view>
+<view class='bigkeybot' bindtouchstart="E0s" bindtouchend="E0e" style="--whitekeycolor--:{{E0}}"></view>
+<view class="bigkeytop" bindtouchstart="F0s" bindtouchend="F0e" style="--whitekeycolor--:{{F0}}" >F</view>
+<view style="display: flex;">
+   <view class="leskeybot" bindtouchstart="F0s" bindtouchend="F0e" style="--whitekeycolor--:{{F0}}"></view>
+   <view class="blackkey1" bindtouchstart="F0b"></view>
+</view>
+<view style="display: flex;">
+   <view class="leskeytop" bindtouchstart="G0s" bindtouchend="G0e" style="--whitekeycolor--:{{G0}}">G</view>
+   <view class="blackkey2" bindtouchstart="F0b"></view>
+</view>
+<view class="bigkeymid" bindtouchstart="G0s" bindtouchend="G0e" style="--whitekeycolor--:{{G0}}"></view>
+<view style="display: flex;">
+   <view class='leskeybot' bindtouchstart="G0s" bindtouchend="G0e" style="--whitekeycolor--:{{G0}}"></view>
+   <view class='blackkey1' bindtouchstart="G0b"></view>
+</view>
+<view style="display: flex;">
+   <view class='leskeytop' bindtouchstart="A0s" bindtouchend="A0e" style="--whitekeycolor--:{{A0}}">A</view>
+   <view class='blackkey2' bindtouchstart="Gb"></view>
+</view>
+<view class="bigkeymid" bindtouchstart="A0s" bindtouchend="A0e" style="--whitekeycolor--:{{A0}}"></view>
+<view style="display: flex;">
+   <view class='leskeybot' bindtouchstart="A0s" bindtouchend="A0e" style="--whitekeycolor--:{{A0}}"></view>
+   <view class='blackkey1' bindtouchstart="A0b"></view>
+</view>
+<view style="display: flex;">
+   <view class='leskeytop' bindtouchstart="B0s" bindtouchend="B0e" style="--whitekeycolor--:{{B0}}">B</view>
+   <view class='blackkey2' bindtouchstart="A0b"></view>
+</view>
+<view class='bigkeybot' bindtouchstart="B0s" bindtouchend="B0e" style="--whitekeycolor--:{{B0}}"></view>
+<view class="bigkeytop" bindtouchstart="c" bindtouchend="c" style="--whitekeycolor--:{{c}}">c</view>
+<view style="display: flex;">
+   <view class="leskeybot" bindtouchstart="cs" bindtouchend="ce" style="--whitekeycolor--:{{c}}"></view>
+   <view class="blackkey1" bindtouchstart="cb"></view>
+</view>
+<view style="display: flex;">
+   <view class="leskeytop" bindtouchstart="ds" bindtouchend="de" style="--whitekeycolor--:{{d}}">d</view>
+   <view class="blackkey2" bindtouchstart="cb"></view>
+</view>
+<view class="bigkeymid" bindtouchstart="ds" bindtouchend="de" style="--whitekeycolor--:{{d}}"></view>
+<view style="display: flex;">
+   <view class='leskeybot' bindtouchstart="ds" bindtouchend="de" style="--whitekeycolor--:{{d}}"></view>
+   <view class='blackkey1' bindtouchstart="db"></view>
+</view>
+<view style="display: flex;">
+   <view class='leskeytop' bindtouchstart="es" bindtouchend="ee" style="--whitekeycolor--:{{e}}">e</view>
+   <view class='blackkey2' bindtouchstart="db"></view>
+</view>
+<view class='bigkeybot' bindtouchstart="es" bindtouchend="ee" style="--whitekeycolor--:{{e}}"></view>
+<view class="bigkeytop" bindtouchstart="fs" bindtouchend="fe" style="--whitekeycolor--:{{f}}" >f</view>
+<view style="display: flex;">
+   <view class="leskeybot" bindtouchstart="fs" bindtouchend="fe" style="--whitekeycolor--:{{f}}"></view>
+   <view class="blackkey1" bindtouchstart="fb"></view>
+</view>
+<view style="display: flex;">
+   <view class="leskeytop" bindtouchstart="gs" bindtouchend="ge" style="--whitekeycolor--:{{g}}">g</view>
+   <view class="blackkey2" bindtouchstart="fb"></view>
+</view>
+<view class="bigkeymid" bindtouchstart="gs" bindtouchend="ge" style="--whitekeycolor--:{{g}}"></view>
+<view style="display: flex;">
+   <view class='leskeybot' bindtouchstart="gs" bindtouchend="ge" style="--whitekeycolor--:{{g}}"></view>
+   <view class='blackkey1' bindtouchstart="gb"></view>
+</view>
+<view style="display: flex;">
+   <view class='leskeytop' bindtouchstart="as" bindtouchend="ae" style="--whitekeycolor--:{{a}}">a</view>
+   <view class='blackkey2' bindtouchstart="gb"></view>
+</view>
+<view class="bigkeymid" bindtouchstart="as" bindtouchend="ae" style="--whitekeycolor--:{{a}}"></view>
+<view style="display: flex;">
+   <view class='leskeybot' bindtouchstart="as" bindtouchend="ae" style="--whitekeycolor--:{{a}}"></view>
+   <view class='blackkey1' bindtouchstart="ab"></view>
+</view>
+<view style="display: flex;">
+   <view class='leskeytop' bindtouchstart="bs" bindtouchend="be" style="--whitekeycolor--:{{b}}">b</view>
+   <view class='blackkey2' bindtouchstart="ab"></view>
+</view>
+<view class='bigkeybot' bindtouchstart="bs" bindtouchend="be" style="--whitekeycolor--:{{b}}"></view>
+<view class="bigkeytop" bindtouchstart="c1" bindtouchend="c1" style="--whitekeycolor--:{{c1}}">c1</view>
+<view style="display: flex;">
+   <view class="leskeybot" bindtouchstart="c1s" bindtouchend="c1e" style="--whitekeycolor--:{{c1}}"></view>
+   <view class="blackkey1" bindtouchstart="c1b"></view>
+</view>
+<view style="display: flex;">
+   <view class="leskeytop" bindtouchstart="d1s" bindtouchend="d1e" style="--whitekeycolor--:{{d1}}">d1</view>
+   <view class="blackkey2" bindtouchstart="c1b"></view>
+</view>
+<view class="bigkeymid" bindtouchstart="d1s" bindtouchend="d1e" style="--whitekeycolor--:{{d1}}"></view>
+<view style="display: flex;">
+   <view class='leskeybot' bindtouchstart="d1s" bindtouchend="d1e" style="--whitekeycolor--:{{d1}}"></view>
+   <view class='blackkey1' bindtouchstart="d1b"></view>
+</view>
+<view style="display: flex;">
+   <view class='leskeytop' bindtouchstart="e1s" bindtouchend="e1e" style="--whitekeycolor--:{{e1}}">e1</view>
+   <view class='blackkey2' bindtouchstart="d1b"></view>
+</view>
+<view class='bigkeybot' bindtouchstart="e1s" bindtouchend="e1e" style="--whitekeycolor--:{{e1}}"></view>
+<view class="bigkeytop" bindtouchstart="f1s" bindtouchend="f1e" style="--whitekeycolor--:{{f1}}" >f1</view>
+<view style="display: flex;">
+   <view class="leskeybot" bindtouchstart="f1s" bindtouchend="f1e" style="--whitekeycolor--:{{f1}}"></view>
+   <view class="blackkey1" bindtouchstart="f1b"></view>
+</view>
+<view style="display: flex;">
+   <view class="leskeytop" bindtouchstart="g1s" bindtouchend="g1e" style="--whitekeycolor--:{{g1}}">g1</view>
+   <view class="blackkey2" bindtouchstart="f1b"></view>
+</view>
+<view class="bigkeymid" bindtouchstart="g1s" bindtouchend="g1e" style="--whitekeycolor--:{{g1}}"></view>
+<view style="display: flex;">
+   <view class='leskeybot' bindtouchstart="g1s" bindtouchend="g1e" style="--whitekeycolor--:{{g1}}"></view>
+   <view class='blackkey1' bindtouchstart="g1b"></view>
+</view>
+<view style="display: flex;">
+   <view class='leskeytop' bindtouchstart="a1s" bindtouchend="a1e" style="--whitekeycolor--:{{a1}}">a1</view>
+   <view class='blackkey2' bindtouchstart="g1b"></view>
+</view>
+<view class="bigkeymid" bindtouchstart="a1s" bindtouchend="a1e" style="--whitekeycolor--:{{a1}}"></view>
+<view style="display: flex;">
+   <view class='leskeybot' bindtouchstart="a1s" bindtouchend="a1e" style="--whitekeycolor--:{{a1}}"></view>
+   <view class='blackkey1' bindtouchstart="a1b"></view>
+</view>
+<view style="display: flex;">
+   <view class='leskeytop' bindtouchstart="b1s" bindtouchend="b1e" style="--whitekeycolor--:{{b1}}">b1</view>
+   <view class='blackkey2' bindtouchstart="a1b"></view>
+</view>
+<view class='bigkeybot' bindtouchstart="b1s" bindtouchend="b1e" style="--whitekeycolor--:{{b1}}"></view>
+<view class="bigkeytop" bindtouchstart="c2" bindtouchend="c2" style="--whitekeycolor--:{{c2}}">c2</view>
+<view style="display: flex;">
+   <view class="leskeybot" bindtouchstart="c2s" bindtouchend="c2e" style="--whitekeycolor--:{{c2}}"></view>
+   <view class="blackkey1" bindtouchstart="c2b"></view>
+</view>
+<view style="display: flex;">
+   <view class="leskeytop" bindtouchstart="d2s" bindtouchend="d2e" style="--whitekeycolor--:{{d2}}">d2</view>
+   <view class="blackkey2" bindtouchstart="c2b"></view>
+</view>
+<view class="bigkeymid" bindtouchstart="d2s" bindtouchend="d2e" style="--whitekeycolor--:{{d2}}"></view>
+<view style="display: flex;">
+   <view class='leskeybot' bindtouchstart="d2s" bindtouchend="d2e" style="--whitekeycolor--:{{d2}}"></view>
+   <view class='blackkey1' bindtouchstart="d2b"></view>
+</view>
+<view style="display: flex;">
+   <view class='leskeytop' bindtouchstart="e2s" bindtouchend="e2e" style="--whitekeycolor--:{{e2}}">e2</view>
+   <view class='blackkey2' bindtouchstart="d2b"></view>
+</view>
+<view class='bigkeybot' bindtouchstart="e2s" bindtouchend="e2e" style="--whitekeycolor--:{{e2}}"></view>
+<view class="bigkeytop" bindtouchstart="f2s" bindtouchend="f2e" style="--whitekeycolor--:{{f2}}" >f2</view>
+<view style="display: flex;">
+   <view class="leskeybot" bindtouchstart="f2s" bindtouchend="f2e" style="--whitekeycolor--:{{f2}}"></view>
+   <view class="blackkey1" bindtouchstart="f2b"></view>
+</view>
+<view style="display: flex;">
+   <view class="leskeytop" bindtouchstart="g2s" bindtouchend="g2e" style="--whitekeycolor--:{{g2}}">g2</view>
+   <view class="blackkey2" bindtouchstart="f2b"></view>
+</view>
+<view class="bigkeymid" bindtouchstart="g2s" bindtouchend="g2e" style="--whitekeycolor--:{{g2}}"></view>
+<view style="display: flex;">
+   <view class='leskeybot' bindtouchstart="g2s" bindtouchend="g2e" style="--whitekeycolor--:{{g2}}"></view>
+   <view class='blackkey1' bindtouchstart="g2b"></view>
+</view>
+<view style="display: flex;">
+   <view class='leskeytop' bindtouchstart="a2s" bindtouchend="a2e" style="--whitekeycolor--:{{a2}}">a2</view>
+   <view class='blackkey2' bindtouchstart="g2b"></view>
+</view>
+<view class="bigkeymid" bindtouchstart="a2s" bindtouchend="a2e" style="--whitekeycolor--:{{a2}}"></view>
+<view style="display: flex;">
+   <view class='leskeybot' bindtouchstart="a2s" bindtouchend="a2e" style="--whitekeycolor--:{{a2}}"></view>
+   <view class='blackkey1' bindtouchstart="a2b"></view>
+</view>
+<view style="display: flex;">
+   <view class='leskeytop' bindtouchstart="b2s" bindtouchend="b2e" style="--whitekeycolor--:{{b2}}">b2</view>
+   <view class='blackkey2' bindtouchstart="a2b"></view>
+</view>
+<view class='bigkeybot' bindtouchstart="b2s" bindtouchend="b2e" style="--whitekeycolor--:{{b2}}"></view>
+<view class="bigkeytop" bindtouchstart="c3" bindtouchend="c3" style="--whitekeycolor--:{{c3}}">c3</view>
+<view style="display: flex;">
+   <view class="leskeybot" bindtouchstart="c3s" bindtouchend="c3e" style="--whitekeycolor--:{{c3}}"></view>
+   <view class="blackkey1" bindtouchstart="c3b"></view>
+</view>
+<view style="display: flex;">
+   <view class="leskeytop" bindtouchstart="d3s" bindtouchend="d3e" style="--whitekeycolor--:{{d3}}">d3</view>
+   <view class="blackkey2" bindtouchstart="c3b"></view>
+</view>
+<view class="bigkeymid" bindtouchstart="d3s" bindtouchend="d3e" style="--whitekeycolor--:{{d3}}"></view>
+<view style="display: flex;">
+   <view class='leskeybot' bindtouchstart="d3s" bindtouchend="d3e" style="--whitekeycolor--:{{d3}}"></view>
+   <view class='blackkey1' bindtouchstart="d3b"></view>
+</view>
+<view style="display: flex;">
+   <view class='leskeytop' bindtouchstart="e3s" bindtouchend="e3e" style="--whitekeycolor--:{{e3}}">e3</view>
+   <view class='blackkey2' bindtouchstart="d3b"></view>
+</view>
+<view class='bigkeybot' bindtouchstart="e3s" bindtouchend="e3e" style="--whitekeycolor--:{{e3}}"></view>
+<view class="bigkeytop" bindtouchstart="f3s" bindtouchend="f3e" style="--whitekeycolor--:{{f3}}" >f3</view>
+<view style="display: flex;">
+   <view class="leskeybot" bindtouchstart="f3s" bindtouchend="f3e" style="--whitekeycolor--:{{f3}}"></view>
+   <view class="blackkey1" bindtouchstart="f3b"></view>
+</view>
+<view style="display: flex;">
+   <view class="leskeytop" bindtouchstart="g3s" bindtouchend="g3e" style="--whitekeycolor--:{{g3}}">g3</view>
+   <view class="blackkey2" bindtouchstart="f3b"></view>
+</view>
+<view class="bigkeymid" bindtouchstart="g3s" bindtouchend="g3e" style="--whitekeycolor--:{{g3}}"></view>
+<view style="display: flex;">
+   <view class='leskeybot' bindtouchstart="g3s" bindtouchend="g3e" style="--whitekeycolor--:{{g3}}"></view>
+   <view class='blackkey1' bindtouchstart="g3b"></view>
+</view>
+<view style="display: flex;">
+   <view class='leskeytop' bindtouchstart="a3s" bindtouchend="a3e" style="--whitekeycolor--:{{a3}}">a3</view>
+   <view class='blackkey2' bindtouchstart="g3b"></view>
+</view>
+<view class="bigkeymid" bindtouchstart="a3s" bindtouchend="a3e" style="--whitekeycolor--:{{a3}}"></view>
+<view style="display: flex;">
+   <view class='leskeybot' bindtouchstart="a3s" bindtouchend="a3e" style="--whitekeycolor--:{{a3}}"></view>
+   <view class='blackkey1' bindtouchstart="a3b"></view>
+</view>
+<view style="display: flex;">
+   <view class='leskeytop' bindtouchstart="b3s" bindtouchend="b3e" style="--whitekeycolor--:{{b3}}">b3</view>
+   <view class='blackkey2' bindtouchstart="a3b"></view>
+</view>
+<view class='bigkeybot' bindtouchstart="b3s" bindtouchend="b3e" style="--whitekeycolor--:{{b3}}"></view>
+<view class="bigkeytop" bindtouchstart="c4" bindtouchend="c4" style="--whitekeycolor--:{{c4}}">c4</view>
+<view style="display: flex;">
+   <view class="leskeybot" bindtouchstart="c4s" bindtouchend="c4e" style="--whitekeycolor--:{{c4}}"></view>
+   <view class="blackkey1" bindtouchstart="c4b"></view>
+</view>
+<view style="display: flex;">
+   <view class="leskeytop" bindtouchstart="d4s" bindtouchend="d4e" style="--whitekeycolor--:{{d4}}">d4</view>
+   <view class="blackkey2" bindtouchstart="c4b"></view>
+</view>
+<view class="bigkeymid" bindtouchstart="d4s" bindtouchend="d4e" style="--whitekeycolor--:{{d4}}"></view>
+<view style="display: flex;">
+   <view class='leskeybot' bindtouchstart="d4s" bindtouchend="d4e" style="--whitekeycolor--:{{d4}}"></view>
+   <view class='blackkey1' bindtouchstart="d4b"></view>
+</view>
+<view style="display: flex;">
+   <view class='leskeytop' bindtouchstart="e4s" bindtouchend="e4e" style="--whitekeycolor--:{{e4}}">e4</view>
+   <view class='blackkey2' bindtouchstart="d4b"></view>
+</view>
+<view class='bigkeybot' bindtouchstart="e4s" bindtouchend="e4e" style="--whitekeycolor--:{{e4}}"></view>
+<view class="bigkeytop" bindtouchstart="f4s" bindtouchend="f4e" style="--whitekeycolor--:{{f4}}" >f4</view>
+<view style="display: flex;">
+   <view class="leskeybot" bindtouchstart="f4s" bindtouchend="f4e" style="--whitekeycolor--:{{f4}}"></view>
+   <view class="blackkey1" bindtouchstart="f4b"></view>
+</view>
+<view style="display: flex;">
+   <view class="leskeytop" bindtouchstart="g4s" bindtouchend="g4e" style="--whitekeycolor--:{{g4}}">g4</view>
+   <view class="blackkey2" bindtouchstart="f4b"></view>
+</view>
+<view class="bigkeymid" bindtouchstart="g4s" bindtouchend="g4e" style="--whitekeycolor--:{{g4}}"></view>
+<view style="display: flex;">
+   <view class='leskeybot' bindtouchstart="g4s" bindtouchend="g4e" style="--whitekeycolor--:{{g4}}"></view>
+   <view class='blackkey1' bindtouchstart="g4b"></view>
+</view>
+<view style="display: flex;">
+   <view class='leskeytop' bindtouchstart="a4s" bindtouchend="a4e" style="--whitekeycolor--:{{a4}}">a4</view>
+   <view class='blackkey2' bindtouchstart="g4b"></view>
+</view>
+<view class="bigkeymid" bindtouchstart="a4s" bindtouchend="a4e" style="--whitekeycolor--:{{a4}}"></view>
+<view style="display: flex;">
+   <view class='leskeybot' bindtouchstart="a4s" bindtouchend="a4e" style="--whitekeycolor--:{{a4}}"></view>
+   <view class='blackkey1' bindtouchstart="a4b"></view>
+</view>
+<view style="display: flex;">
+   <view class='leskeytop' bindtouchstart="b4s" bindtouchend="b4e" style="--whitekeycolor--:{{b4}}">b4</view>
+   <view class='blackkey2' bindtouchstart="a4b"></view>
+</view>
+<view class='bigkeybot' bindtouchstart="b4s" bindtouchend="b4e" style="--whitekeycolor--:{{b4}}"></view>
+<view class="bigkeytop" bindtouchstart="c5" bindtouchend="c5" style="--whitekeycolor--:{{c5}}">c5</view>
+<view style="display: flex;">
+   <view class="leskeyend" bindtouchstart="c5s" bindtouchend="c5e" style="--whitekeycolor--:{{c5}}"></view>
+</view>
+
+
+
+
+
